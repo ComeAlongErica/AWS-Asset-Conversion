@@ -33,4 +33,3 @@ $ python3 -i scripts/upload-files.py
 ```
 >>> read_file('test.csv', 'bucket.name.com')
 ```
-
